@@ -1,0 +1,12 @@
+{
+  "name": "pidmKarla",
+  "displayName": "pidmKarla",
+  "expo": {
+    "name": "pidmKarla",
+    "slug": "pidmKarla",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
