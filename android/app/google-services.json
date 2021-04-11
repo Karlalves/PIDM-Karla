@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805604503102",
+    "project_id": "aula-mobile-b1542",
+    "storage_bucket": "aula-mobile-b1542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805604503102:android:243425e77f0cfcb661ab6f",
+        "android_client_info": {
+          "package_name": "com.pidmkarla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805604503102-im9sk6cjpv62dijp0aj1fpc2d8u71sjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbhhal_pMq041IscJ5jDb3FLyDw7H__Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805604503102-im9sk6cjpv62dijp0aj1fpc2d8u71sjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
